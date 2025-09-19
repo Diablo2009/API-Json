@@ -2,7 +2,9 @@
   // An Example Project Scope that showcases how to make projects and scopes
   "@example": {
     "example": {
-      "author": "Talon Wettstein"
+      "author": "Talon Wettstein",
+      "version": "1.0.0",
+      "shortcode": "example"
     }
   }
 }
