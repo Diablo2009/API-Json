@@ -1,0 +1,11 @@
+{
+  // An Example Project Scope that showcases how to make projects and scopes
+  "@example": {
+    "projects": {
+      "example": {
+        "author": "Talon Wettstein",
+        "version": "1.0.0"
+      }
+    }
+  }
+}
